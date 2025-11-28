@@ -182,11 +182,7 @@ python process_incoming.py
 
 ---
 
-If you want, I can also:
 
-* produce a `requirements.txt` file,
-* generate a `Makefile` or simple bash script to run the pipeline,
-* or update `mp3_to_json.py` to allow choosing Whisper model via CLI flags.
 
 
 
