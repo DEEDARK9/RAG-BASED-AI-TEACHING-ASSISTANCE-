@@ -1,8 +1,5 @@
 # RAG AI Teaching Assistant — Project README
 
-> This README was generated from the existing project files. It consolidates requirements, folder layout, setup & run instructions, and troubleshooting tips so you can quickly run the project on your machine.
-
----
 
 ## What this project does
 
