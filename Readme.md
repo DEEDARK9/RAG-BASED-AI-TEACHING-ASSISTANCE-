@@ -170,12 +170,6 @@ python process_incoming.py
 
 ---
 
-## Next improvements (suggested)
-
-* Add a `requirements.txt` and `Makefile` or simple CLI wrapper for the whole pipeline.
-* Add batching and resume capability to `preprocess_json.py` so large jobs can be resumed.
-* Add unit tests for parsing filename structure and embedding shapes.
-* Add a small web UI to ask queries instead of CLI.
 
 ---
 
